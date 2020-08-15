@@ -1,4 +1,4 @@
-# Python
+# Python weight converter
 Simple Python Program for 
 Converting KiloGram(kg) to Pounds
 or
